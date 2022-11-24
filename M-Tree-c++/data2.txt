@@ -1,0 +1,21 @@
+20
+USA 148104 2406
+Slovenia 202419 2512
+Slovakia 124480 2639
+San_Marino 175688 2733
+Romania 93390 2966
+Peru 66477 5983
+North_Macedonia 103485 3639
+Montenegro 250528 3673
+Lithuania 176235 2525
+Hungary 114600 3586
+Gibraltar 215221 2910
+Georgia 212561 3030
+Czechia 200245 3080
+Croatia 149455 2678
+Colombia 98156 2489
+Bulgaria 101106 4139
+Brazil 102912 2863
+Bosnia_and_Herzegovina 84584 3870
+Armenia 113938 2547
+Argentina 116439 2547

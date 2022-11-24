@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1669263234 source:d:\proyectos_c++\eda\m-tree\m-tree-c++\src\mtree.cpp
+	"mtree.h"
+	<queue>
+
+1669263202 d:\proyectos_c++\eda\m-tree\m-tree-c++\include\mtree.h
+	<iostream>
+	<cmath>
+	<vector>
+	<set>
+	<limits>
+	<assert.h>
+	<string>
+
